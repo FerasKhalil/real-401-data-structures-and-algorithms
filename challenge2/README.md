@@ -10,7 +10,7 @@ Write a function called insertShiftArray which takes in an array and a value to 
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![challenge 2](Screenshot(276).png)
+![challenge 2](Screenshot01-08-2021230755(2).jpg)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
@@ -18,4 +18,4 @@ Write a function called insertShiftArray which takes in an array and a value to 
 - time is o(1) because we know exactly what to remove from the list and what to replace it with
 
 ## code image
-![code link](Screenshot(272).png)
+![code link](Screenshot01-08-2021230013(2).jpg)
