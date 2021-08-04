@@ -15,7 +15,7 @@ Write a function called insertShiftArray which takes in an array and a value to 
 ## Approach & Efficiency
 <!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
 - space is O(1) because we don't really change on the original array, we make a new one
-- time is o(1) because we know exactly what to remove from the list and what to replace it with
+- time is o(n) 
 
 ## code image
 ![code link](Screenshot01-08-2021230013(2).jpg)
