@@ -10,7 +10,7 @@ Write a function called insertShiftArray which takes in an array and a value to 
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![challenge 2](Screenshot01-08-2021230755(2).jpg)
+![challenge 2](NewTextDocument.txt(2).jpg)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
