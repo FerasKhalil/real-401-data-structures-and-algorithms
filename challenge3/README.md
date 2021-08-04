@@ -8,9 +8,8 @@ you need to make an application that has a function that takes in a list and a s
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
 - whole white board in miro link
-![challenge 3](Screenshot(270).png)
-- code might not be clear so here's the picture of it
-![challenge 3](Screenshot(268).png)
+![challenge 3](Screenshot04-08-2021221915(2).jpg)
+
 
 ## Approach & Efficiency
 <!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
